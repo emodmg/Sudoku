@@ -1,1 +1,1 @@
-# Sudoku
+# You can play sudoku game with this little program. By using the commands in sudoku.h file, you can fill in the sudoku blanks on your own or let the computer solve it for you. Also, the best part about this program is that it can provide you with some hints when you are stuck. Good luck!
